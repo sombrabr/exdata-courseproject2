@@ -47,7 +47,7 @@ png("plot5.png")
 
 plot(emissions.year, 
      ylab="total emissions (tons)", 
-     main="Total Emissions x Year (Motor Vehicles)",
+     main="Total Emissions x Year (Baltimore - Motor Vehicles)",
      pch = 19)
 
 lines(emissions.x, emissions.y, col=2)
